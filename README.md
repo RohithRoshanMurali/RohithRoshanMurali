@@ -1,24 +1,47 @@
-# 👋 Hi, I'm Rohith Roshan
+# 👋 Hey there, I'm **Rohith Roshan**
 
-🎓 M.Tech in Environmental Engineering | 🧠 Aspiring PhD in Sustainability & AI
+🎓 M.Tech in Environmental Engineering  
+🌱 Aspiring PhD Candidate in Sustainability, Environmental Modelling & AI  
+🇮🇳 Based in India | 🔍 Exploring data-driven solutions for climate and health challenges
 
-🔬 I use data science to solve environmental problems — from **pollution monitoring** to **machine learning for policy modelling**.
+---
 
-## 🔧 Tools I Use
-- Python, pandas, NumPy, scikit-learn
-- OpenLCA, GIS tools
-- Jupyter Notebooks, VS Code
+## 🚀 What I Do
+I apply **machine learning**, **life cycle assessment**, and **environmental modeling** to understand and solve complex sustainability problems.
 
-## 📌 Current Projects
+---
+
+## 📌 Featured Projects
 - 🌫️ **AQI and Health Risk Analysis in Indian Cities**  
-  Exploring air pollution trends and modeling public health impacts using Python
+  Modeling air quality trends and estimating public health impacts with Python
 
-- 🌾 **Predicting the Effect of Adverse Climatic Events on Agriculture**  
-  Using ML and statistical tools to analyze vulnerability and forecast crop losses
+- 🌾 **Climatic Event Impact on Agriculture**  
+  Using ML + statistics to predict how heatwaves, droughts, and floods affect crop yields
 
-- 🍿 **Life Cycle Assessment of Popcorn as a Packaging Material**  
-  Evaluating the sustainability of popcorn-based alternatives to Styrofoam using OpenLCA
+- 🍿 **LCA of Popcorn vs. Styrofoam for Packaging**  
+  Assessing sustainability trade-offs using OpenLCA and cradle-to-grave thinking
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rohithroshan98)
-- [Email](mailto:rohithroshanmurali@gmail.com)
+---
+
+## 🧰 Tools & Technologies
+- 🐍 Python (NumPy, pandas, scikit-learn, matplotlib, seaborn)
+- 🧪 OpenLCA, GIS tools
+- 📊 Jupyter Notebooks, VS Code
+- 🛠️ Git & GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithroshan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohithroshan98)
+- ✍️ [Medium](https://medium.com/@rohithroshan98) *(optional placeholder — update if you create one)*
+- 📧 rohithroshanmurali@gmail.com
+
+---
+
+📌 *Let’s build sustainable solutions with science, code, and purpose.*

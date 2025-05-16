@@ -39,7 +39,7 @@ I apply **machine learning**, **life cycle assessment**, and **environmental mod
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohithroshan98)
-- ✍️ [Medium](https://medium.com/@rohithroshan98) *(optional placeholder — update if you create one)*
+- ✍️ [Medium](https://medium.com/@rohithroshanmurali)
 - 📧 rohithroshanmurali@gmail.com
 
 ---

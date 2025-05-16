@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohith Roshan
 
-<!--
-**RohithRoshanMurali/RohithRoshanMurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech in Environmental Engineering | 🧠 Aspiring PhD in Sustainability & AI
 
-Here are some ideas to get you started:
+🔬 I use data science to solve environmental problems — from **pollution monitoring** to **machine learning for policy modelling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools I Use
+- Python, pandas, NumPy, scikit-learn
+- OpenLCA, GIS tools
+- Jupyter Notebooks, VS Code
+
+## 📌 Current Projects
+- 🧪 LCA of BPA remediation using Heliconia plants
+- 🧬 Cancer diagnosis model using KNN
+- 📊 ESG metrics analysis using Python + NLP
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/rohithroshan98)
+- [Medium](https://medium.com/@YOURUSERNAME)
+- [Email](mailto:youremail@example.com)

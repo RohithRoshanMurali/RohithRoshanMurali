@@ -10,11 +10,15 @@
 - Jupyter Notebooks, VS Code
 
 ## 📌 Current Projects
-- 🧪 LCA of BPA remediation using Heliconia plants
-- 🧬 Cancer diagnosis model using KNN
-- 📊 ESG metrics analysis using Python + NLP
+- 🌫️ **AQI and Health Risk Analysis in Indian Cities**  
+  Exploring air pollution trends and modeling public health impacts using Python
+
+- 🌾 **Predicting the Effect of Adverse Climatic Events on Agriculture**  
+  Using ML and statistical tools to analyze vulnerability and forecast crop losses
+
+- 🍿 **Life Cycle Assessment of Popcorn as a Packaging Material**  
+  Evaluating the sustainability of popcorn-based alternatives to Styrofoam using OpenLCA
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rohithroshan98)
-- [Medium](https://medium.com/@YOURUSERNAME)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:rohithroshanmurali@gmail.com)

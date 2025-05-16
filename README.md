@@ -15,6 +15,6 @@
 - 📊 ESG metrics analysis using Python + NLP
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/rohithroshan98)
+- [LinkedIn](https://www.linkedin.com/in/rohithroshan98)
 - [Medium](https://medium.com/@YOURUSERNAME)
 - [Email](mailto:youremail@example.com)

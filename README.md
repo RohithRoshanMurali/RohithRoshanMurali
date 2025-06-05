@@ -12,8 +12,8 @@ I apply **machine learning**, **life cycle assessment**, and **environmental mod
 ---
 
 ## 📌 Featured Projects
-- 🌫️ **AQI and Health Risk Analysis in Indian Cities**  
-  Modeling air quality trends and estimating public health impacts with Python
+- 🌫️ **Urban Heat Watch: Mapping India’s Thermal Divide**  
+  A spatiotemporal analysis of how urban areas in India are heating faster than their rural surroundings using satellite-based climate data and population density metrics
 
 - 🌾 **Climatic Event Impact on Agriculture**  
   Using ML + statistics to predict how heatwaves, droughts, and floods affect crop yields

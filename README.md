@@ -19,7 +19,6 @@ I integrate **machine learning, deep learning**, and **environmental systems ana
 ## 🧩 Featured Projects
 - 🌧️ **Rainfall Prediction Classifier**  
   Predicting rainfall occurrence using meteorological data and classification models  
-  → [View Project](ML/Rainfall_Prediction_Classifier)
 
 - 🌫️ **Urban Heat Watch: Mapping India’s Thermal Divide**  
   Quantifying how Indian cities are warming faster than rural surroundings using satellite data + population density metrics

@@ -1,33 +1,46 @@
-# 👋 Hey there, I'm **Rohith Roshan**
+# 👋 Hi, I'm **Rohith Roshan**
 
-🎓 M.Tech in Environmental Engineering  
-🌱 Aspiring PhD Candidate in Sustainability, Environmental Modelling & AI  
-🇮🇳 Based in India | 🔍 Exploring data-driven solutions for climate and health challenges
-
----
-
-## 🚀 What I Do
-I apply **machine learning**, **life cycle assessment**, and **environmental modeling** to understand and solve complex sustainability problems.
+🎓 M.Tech in Environmental Engineering (IIT Hyderabad)  
+🌍 Bridging **AI, Sustainability, and Environmental Modelling**  
+🇮🇳 Based in India | 🔬 Building data-driven solutions for climate and health challenges  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I’m Working On
+I integrate **machine learning, deep learning**, and **environmental systems analysis** to model sustainability problems — from predicting heatwaves and rainfall to assessing pollution and lifecycle impacts.
+
+📘 Currently building my **AI Research Portfolio**, focusing on:
+- 🌡️ **Climate ML:** Heatwave and rainfall prediction, urban heat analysis  
+- 🧬 **Health & Environment:** Air quality and health risk modeling  
+- 🧠 **AI Research Skills:** CNNs, transformers, model interpretability, and MLOps foundations  
+
+---
+
+## 🧩 Featured Projects
+- 🌧️ **Rainfall Prediction Classifier**  
+  Predicting rainfall occurrence using meteorological data and classification models  
+  → [View Project](ML/Rainfall_Prediction_Classifier)
+
 - 🌫️ **Urban Heat Watch: Mapping India’s Thermal Divide**  
-  A spatiotemporal analysis of how urban areas in India are heating faster than their rural surroundings using satellite-based climate data and population density metrics
+  Quantifying how Indian cities are warming faster than rural surroundings using satellite data + population density metrics
 
 - 🌾 **Climatic Event Impact on Agriculture**  
-  Using ML + statistics to predict how heatwaves, droughts, and floods affect crop yields
+  Using ML and statistical modeling to estimate the effect of heatwaves, droughts, and floods on crop yields
 
-- 🍿 **LCA of Popcorn vs. Styrofoam for Packaging**  
-  Assessing sustainability trade-offs using OpenLCA and cradle-to-grave thinking
+- 🍿 **LCA of Popcorn vs. Styrofoam Packaging**  
+  Performing cradle-to-grave sustainability analysis using OpenLCA
 
 ---
 
 ## 🧰 Tools & Technologies
-- 🐍 Python (NumPy, pandas, scikit-learn, matplotlib, seaborn)
-- 🧪 OpenLCA, GIS tools
-- 📊 Jupyter Notebooks, VS Code
-- 🛠️ Git & GitHub
+
+**Programming & ML**  
+🐍 Python (NumPy, pandas, scikit-learn, matplotlib, seaborn)  
+🤖 PyTorch, TensorFlow, Keras, XGBoost  
+
+**Data & Research Tools**  
+📊 Jupyter Notebooks, VS Code, Git & GitHub  
+🧪 OpenLCA, GIS, Remote Sensing, Azure ML  
 
 ---
 
@@ -44,4 +57,5 @@ I apply **machine learning**, **life cycle assessment**, and **environmental mod
 
 ---
 
-📌 *Let’s build sustainable solutions with science, code, and purpose.*
+📌 *Let’s combine science, code, and sustainability to engineer a better planet.*  
+✍️ *Written with AI assistance.*
